@@ -23,7 +23,7 @@ AI Services: OpenAI API (optional)<br>
 📦 Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/smartgsm-app.git
+git clone https://github.com/belmobile88-blip/smartgsm-app.git
 cd smartgsm-app
 
 # Install backend dependencies
